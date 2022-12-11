@@ -1,0 +1,15 @@
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.csprojAssemblyReference.cache
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\MainWindow.g.cs
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\App.g.cs
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7_MarkupCompile.cache
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7_MarkupCompile.lref
+C:\Users\1395367\source\repos\gen7\gen7\bin\Debug\gen7.exe.config
+C:\Users\1395367\source\repos\gen7\gen7\bin\Debug\gen7.exe
+C:\Users\1395367\source\repos\gen7\gen7\bin\Debug\gen7.pdb
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\MainWindow.baml
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.g.resources
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.Properties.Resources.resources
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.csproj.GenerateResource.cache
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.csproj.CoreCompileInputs.cache
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.exe
+C:\Users\1395367\source\repos\gen7\gen7\obj\Debug\gen7.pdb
